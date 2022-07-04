@@ -23,7 +23,7 @@ public class JogoDasTentativas {
 
         System.out.println("Olá " + nome +", seja bem vindo(a) ao jogo das tentativas."); // texto interativo
         System.out.println("Agora, tente acertar o número aleatório ou o números próximos a ele (boa sorte)\n");
-         // número inteiro que o usuário vai informar
+        // número inteiro que o usuário vai informar
         System.out.print("Dica: informe um número entre 1 e 30\n");
 
         int resultadoFinal = 0;
